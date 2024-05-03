@@ -1,2 +1,9 @@
 body {
+	text-align: center;
+	background: #ffe7cd url("../images/grand-canyon1.jpg") no-repeat fixed center center;
+}
+#wrapper {
+	width: 1000px;
+	margin: 10px auto;
+	text-align: left;
 }
